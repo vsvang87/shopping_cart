@@ -1,0 +1,11 @@
+@use "navbar";
+@use "helper";
+
+* {
+    padding: 0;
+    margin: 0;
+
+}
+body {
+    scroll-behavior: smooth;
+}
